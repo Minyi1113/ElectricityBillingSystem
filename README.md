@@ -20,3 +20,4 @@ Second once you donwload the app is easy to manage electric billing problem, use
 and make payment through the system.
 Moreover, most billing system will requier transcation fee, but using our application won't cause any fee.
 
+Work in a team of 5
